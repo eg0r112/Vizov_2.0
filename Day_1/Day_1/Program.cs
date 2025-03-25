@@ -3,7 +3,6 @@ using System.Security.Cryptography.X509Certificates;
 
 public class Program
 {
-    //ДОБАВИТЬ TRY CATCH  на int32
     public string Name;
     public int Age;
     delegate void Proverka();
@@ -17,6 +16,7 @@ public class Program
             File.CreateText(filePath);
         }
         Program prog = new Program();
+        Console.WriteLine("Добро пожаловать!");
         Console.WriteLine("Введите ваше Имя");
         prog.Name = Console.ReadLine();
         Console.WriteLine("Введите ваш возраст");
@@ -40,7 +40,6 @@ public class Program
     }
 
 
-    //ДОБАВИТЬ TRY CATCH  на int32
     public void OnUserCreated()
     {
         Console.Clear();
@@ -56,4 +55,3 @@ public class Program
         }
     }
 }
-     //ДОБАВИТЬ TRY CATCH   на int32
