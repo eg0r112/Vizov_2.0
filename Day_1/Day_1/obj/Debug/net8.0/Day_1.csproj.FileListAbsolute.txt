@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\bin\Debug\net8.0\Day_1.exe
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\bin\Debug\net8.0\Day_1.deps.json
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\bin\Debug\net8.0\Day_1.runtimeconfig.json
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\bin\Debug\net8.0\Day_1.dll
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\bin\Debug\net8.0\Day_1.pdb
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.sourcelink.json
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.dll
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\refint\Day_1.dll
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.pdb
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\Day_1.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\Vizov_2.0\Day_1\Day_1\obj\Debug\net8.0\ref\Day_1.dll
